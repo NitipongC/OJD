@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_data_YOLO</folder>
+	<filename>355.png</filename>
+	<path>/Users/nitipongchanglor/MLis2_Notebook/train_test_data/training_data_YOLO/355.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>25</ymin>
+			<xmax>300</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
