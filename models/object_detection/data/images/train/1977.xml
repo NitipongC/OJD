@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_data_YOLO</folder>
+	<filename>1977.png</filename>
+	<path>/Users/nitipongchanglor/MLis2_Notebook/train_test_data/training_data_YOLO/1977.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>light</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>14</ymin>
+			<xmax>44</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>
