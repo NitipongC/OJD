@@ -1,0 +1,26 @@
+<annotation>
+	<folder>object_contain</folder>
+	<filename>7086.png</filename>
+	<path>/Users/nitipongchanglor/MLis2_Notebook/train_test_data/object_contain/7086.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>35</ymin>
+			<xmax>47</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+</annotation>

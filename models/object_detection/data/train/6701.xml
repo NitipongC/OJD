@@ -1,0 +1,26 @@
+<annotation>
+	<folder>object_contain</folder>
+	<filename>6701.png</filename>
+	<path>/Users/nitipongchanglor/MLis2_Notebook/train_test_data/object_contain/6701.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>8</ymin>
+			<xmax>167</xmax>
+			<ymax>22</ymax>
+		</bndbox>
+	</object>
+</annotation>
