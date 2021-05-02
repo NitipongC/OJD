@@ -1,0 +1,26 @@
+<annotation>
+	<folder>object_contain</folder>
+	<filename>885.png</filename>
+	<path>/Users/nitipongchanglor/MLis2_Notebook/train_test_data/object_contain/885.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>64</ymin>
+			<xmax>185</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
